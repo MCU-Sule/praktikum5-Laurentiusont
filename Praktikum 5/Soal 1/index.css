@@ -1,0 +1,47 @@
+body {
+    background-color: #95a4ef;
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+table{
+    border-spacing: 0em;
+    width: 750px;
+    background-color: #778aeb;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+#a{
+    text-align: center;
+    
+}
+#b {
+    text-align: right;
+
+    
+}
+s {
+    text-transform: uppercase;
+}
+td.a {
+    background-color: #c1caf6;
+    width: 50%;
+    text-indent: 30px;
+    font-weight: bolder;
+
+}
+td.b {
+    background-color: #112174;
+    text-align: center;
+    color: white;
+    line-height: 2.5;
+    word-spacing: 7px;
+
+}
+span {
+    color: #0d1957;
+    font-size:3em;
+    font-weight: bolder;
+}

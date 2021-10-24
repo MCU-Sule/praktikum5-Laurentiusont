@@ -1,0 +1,46 @@
+body {
+    background: url(background.jpg);
+    font-family:'Nunito', sans-serif ;
+    line-height: 30px;
+    
+}
+form {
+    background-color: rgba(145, 156, 162, 0.8);
+    width: 500px;
+    margin-top: 30px;
+    margin-right: auto;
+    margin-left: auto;
+}
+label {
+    margin-right: 30px;
+    margin-left: 30px;
+}
+input[type=text], input[type=date], input[type=submit], select, input[type=number]{
+    margin-right: 30px;
+    margin-left: 30px;
+    width: 440px;    
+}
+input[type=radio] {
+    margin-left: 30px;    
+}
+input[type=checkbox] {
+    margin-left: 30px;
+}
+label.a {
+    margin: auto;
+}
+input[type=submit] {
+    background-color: #2dcb6f;
+    border-right-color: black;
+    border-bottom-color: black;
+    margin-bottom: 20px;
+    height: 40px;
+}
+div {
+    height: 20px;
+}
+p {
+    text-align: center;
+    color: white;
+    font-size:x-large;
+}
